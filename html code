@@ -1,0 +1,31 @@
+<doctype html>
+<html lang="de">
+  <head>
+    <meta charset="uft-8">
+	<title>GAmes Dc </title>
+  </head>
+  <body>
+   <h1>Hier findest du denn link </h1>
+   <br>
+   <link title="weiterleitung" href="http://www.google.de"> Test </link>
+   <br>
+   <img  src="bild.jpg" alt="Bild nicht angezeigt" />
+   <table>
+     <tr>
+	   <th> Produkkt</th>
+	   <th>Owner</th>
+	 </tr>
+	 <tr>
+	 <td>Owner</td>
+	<td>03</td>
+	<tr>
+	  <td>Admins</td>
+	  <td>0</td>
+	 </tr>
+	 <tr>
+	   <td>Supporter</td>
+	   <td>0</td
+	  </tr>
+	</table>
+  </body>
+</html
